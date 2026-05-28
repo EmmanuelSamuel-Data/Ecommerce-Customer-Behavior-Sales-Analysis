@@ -16,7 +16,7 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 
 5. **Features**  18 columns including demographics, transaction data, session behavior, delivery, and ratings
 
-** 🛠 Tools Used**
+**🛠 Tools Used**
 
 1. Power BI
 
