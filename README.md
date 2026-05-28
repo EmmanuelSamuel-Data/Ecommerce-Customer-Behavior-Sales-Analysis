@@ -6,15 +6,15 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 
 **ATTRIBUTES**
 
-**Records** 17,049 orders 
+1. **Records** 17,049 orders 
 
-**Customers**  5,000 unique customers 
+2. **Customers**  5,000 unique customers 
 
-**Geography**  10 cities Istanbul, Ankara, Izmir, Bursa, Adana, Antalya, Gaziantep, Konya, Kayseri, Eskişehir
+3. **Geography**  10 cities Istanbul, Ankara, Izmir, Bursa, Adana, Antalya, Gaziantep, Konya, Kayseri, Eskişehir
 
-**Time Period**  January 2023 – March 2024
+4. **Time Period**  January 2023 – March 2024
 
-**Features**  18 columns including demographics, transaction data, session behavior, delivery, and ratings
+5 **Features**  18 columns including demographics, transaction data, session behavior, delivery, and ratings
 
 ** 🛠 Tools Used**
 
