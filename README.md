@@ -1,6 +1,6 @@
 **🛒 Ecommerce Customer Behavior & Sales Analysis**
 
-**OVERVIEW**
+**📌 OVERVIEW**
 
 This project delivers an end-to-end behavioral and commercial analysis of an ecommerce platform operating across 10 major Turkish cities. Using Power BI, four analytical dashboards were developed to surface actionable insights across the customer lifecycle — from acquisition and purchasing behavior, through pricing strategy, to fulfilment performance.
 
@@ -16,13 +16,13 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 
 **Features**  18 columns including demographics, transaction data, session behavior, delivery, and ratings
 
-**Tools Used**
+** 🛠 Tools Used**
 
 1. Power BI
 
 2. DAX 
 
-**DASHBORD & KEY FINDINGS**
+**📊 DASHBORD & KEY FINDINGS**
 1. Customer Churn & Behavior
 **Churn Rate: 37.1% | Active Customers: 3,143 | At-Risk: 699**
 
@@ -35,6 +35,7 @@ The platform is experiencing significant customer attrition. Of 5,000 total cust
 **Gross Revenue: $22.97M | Net Revenue: $21.78M | Total Orders: 17,049**
 
 ![Dashboard](Sales_Dashboard)
+
    **INISGHT**
    
   Electronics alone generates **48.1% of net revenue**, yet unit quantity sold (6,277) is among the lowest across all categories. Revenue dominance is driven entirely by high unit price, not volume — a concentration risk that warrants diversification. Revenue declined **10.5% from peak** to Q1 2024, a trend that correlates with the compounding effect of customer churn. All eight product categories carries a near-identical unit volumes **(6,078–6,856 units)**, meaning category revenue differences are entirely a function of unit price.
@@ -43,7 +44,8 @@ The platform is experiencing significant customer attrition. Of 5,000 total cust
 **Electronics Revenue Share: 48.1% | Average Unit Price: $448 | Discount Rate: 5.2%**
 
 ![Dashboard](Price_OTP_Dashboard)
-       **INSIGHT**
+
+**INSIGHT**
 
 Demand across nearly all categories is price-inelastic. Sports is the only category showing meaningful positive sensitivity (0.13), where modest price reductions may generate measurable volume uplift. Electronics is fully price-inelastic (sensitivity index: 0.00) with an average unit price of $1,767 — discounting this category produces zero quantity uplift. **Rating vs. Price Spread:** Customer ratings are broadly consistent across price tiers (3.88–3.91 average). However, Home & Garden shows a notable negative spread of –0.31, meaning budget-tier customers rate it higher than premium-tier customers — a signal of unmet value expectations at higher price points.
 
@@ -51,12 +53,13 @@ Demand across nearly all categories is price-inelastic. Sports is the only categ
 **Avg Delivery Time: 6.5 Days | Avg Customer Rating: 3.90 | Delivery-Rating Correlation: -0.008**
 
 ![Dashboard](Delivery_Dashboard)
-     **INSIGHT**
+
+**INSIGHT**
 
 Monthly average delivery time declined from **6.74 days (August 2023)** to **6.26 days (February 2024)**, demonstrating consistent operational improvement. **54.2% of dissatisfied customers received their orders within 5 days. ** Delivery speed is not the root cause of low ratings. The 2,268 low-rated orders are driven by factors unrelated to logistics — most likely product quality, inaccurate descriptions, or post-purchase service gaps.
 
 
-**Strategic Recommendations**
+** 💡 Strategic Recommendations**
 
  **Customer Retention**
  * **Deploy a Second-Purchase Campaign** targeting single-order customers within 30 days of their first purchase.
@@ -84,5 +87,5 @@ Monthly average delivery time declined from **6.74 days (August 2023)** to **6.2
 
 *  **Set a sub-6.3 day delivery benchmark** across all categories as the next operational target, with particular focus on Books (currently 6.60 days).
 
-
+⭐If you found this project insightful or would like to collaborate, feel free to connect with me on LinkedIn at Emmanuel Samuel or explore more of my work here.
    
