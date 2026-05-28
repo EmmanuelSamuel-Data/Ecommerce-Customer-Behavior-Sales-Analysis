@@ -6,7 +6,7 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 
 **ATTRIBUTES**
 
-**Records** | 17,049 orders 
+**Records** 17,049 orders 
 **Customers**  5,000 unique customers 
 **Geography**  10 cities (Istanbul, Ankara, Izmir, Bursa, Adana, Antalya, Gaziantep, Konya, Kayseri, Eskişehir
 **Time Period**  January 2023 – March 2024
@@ -15,5 +15,6 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 **DASHBORD & KEY FINDINGS**
 1. Customer Churn & Behavior
 **Churn Rate: 37.1% | Active Customers: 3,143 | At-Risk: 699**
+
 ![Dashboard](Churn Dashboard.png)
    
