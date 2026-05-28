@@ -14,7 +14,7 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 
 4. **Time Period**  January 2023 – March 2024
 
-5 **Features**  18 columns including demographics, transaction data, session behavior, delivery, and ratings
+5. **Features**  18 columns including demographics, transaction data, session behavior, delivery, and ratings
 
 ** 🛠 Tools Used**
 
@@ -43,7 +43,7 @@ The platform is experiencing significant customer attrition. Of 5,000 total cust
 3.Price Optimization 
 **Electronics Revenue Share: 48.1% | Average Unit Price: $448 | Discount Rate: 5.2%**
 
-![Dashboard](Price_OTP_Dashboard.png)
+![Dashboard](Price_OPT_Dashboard.png)
 
 **INSIGHT**
 
