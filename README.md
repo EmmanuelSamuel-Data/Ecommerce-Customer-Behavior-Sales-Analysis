@@ -34,7 +34,7 @@ The platform is experiencing significant customer attrition. Of 5,000 total cust
 2. Sales Performance
 **Gross Revenue: $22.97M | Net Revenue: $21.78M | Total Orders: 17,049**
 
-![Dashboard](Sales_Dashboard)
+![Dashboard](Sales_Dashboard.png)
 
    **INISGHT**
    
@@ -43,7 +43,7 @@ The platform is experiencing significant customer attrition. Of 5,000 total cust
 3.Price Optimization 
 **Electronics Revenue Share: 48.1% | Average Unit Price: $448 | Discount Rate: 5.2%**
 
-![Dashboard](Price_OTP_Dashboard)
+![Dashboard](Price_OTP_Dashboard.png)
 
 **INSIGHT**
 
@@ -52,14 +52,14 @@ Demand across nearly all categories is price-inelastic. Sports is the only categ
 4. Delivery Performance
 **Avg Delivery Time: 6.5 Days | Avg Customer Rating: 3.90 | Delivery-Rating Correlation: -0.008**
 
-![Dashboard](Delivery_Dashboard)
+![Dashboard](Delivery_Dashboard.png)
 
 **INSIGHT**
 
 Monthly average delivery time declined from **6.74 days (August 2023)** to **6.26 days (February 2024)**, demonstrating consistent operational improvement. **54.2% of dissatisfied customers received their orders within 5 days. ** Delivery speed is not the root cause of low ratings. The 2,268 low-rated orders are driven by factors unrelated to logistics — most likely product quality, inaccurate descriptions, or post-purchase service gaps.
 
 
-** 💡 Strategic Recommendations**
+**💡 Strategic Recommendations**
 
  **Customer Retention**
  * **Deploy a Second-Purchase Campaign** targeting single-order customers within 30 days of their first purchase.
