@@ -16,5 +16,11 @@ This project delivers an end-to-end behavioral and commercial analysis of an eco
 1. Customer Churn & Behavior
 **Churn Rate: 37.1% | Active Customers: 3,143 | At-Risk: 699**
 
-![Dashboard](Churn Dashboard.png)
+![Dashboard](Churn_Dashboard.png)
    
+1.The platform is experiencing significant customer attrition. Of 5,000 total customers, **1,857 have churned** (defined as inactive for 131+ days). An additional **699 active customers** — representing 22.2% of the active base — fall within the 90–131 day idle window, placing total churn exposure near 51% of the full customer base.
+2.Single-purchase customers are the highest churn risk. Converting a first-time buyer into a repeat customer is the single most impactful retention lever available.
+3.Geographic Concentration: Istanbul (484), Ankara (283), and Izmir (215) account for the three highest volumes of churned customers — cities that also generate the most revenue, making retention in these markets a top priority.
+4.Trend: Monthly churn declined from a peak of 335 (October 2023) to 65 (January 2023 cohort), reflecting cohort exhaustion rather than a genuine retention improvement.
+
+
